@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Remove Dojers",
+    "version": "1.0",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "dojers.html",
+      "default_icon": "block.png"
+    }
+  }
